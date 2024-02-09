@@ -4,19 +4,21 @@ Hello! I'm Gabriel Penteado, a technology enthusiast, Data Analyst, and Full Sta
 
 Here are some of the technologies and areas I have experience in:
 
-- **Data Analyst**:
+ Data Analyst:
   - Exploratory Data Analysis
   - Machine Learning
   - Data Visualization
   - Data Mining
 
-- **Full Stack Programmer**:
+ Full Stack Programmer:
   - Web Development
-  - Frontend: HTML, CSS, TypeScript, React, PHP
-  - Backend: Node.js, Python
+  - Frontend: HTML, CSS, TypeScript, React, Tailwind
+  - Backend: Node.js, Python, Java, PHP
   - Databases: SQL (MySQL, PostgreSQL) and NoSQL (MongoDB)
+  - Infra: Docker, AWS, Google Cloud
 
-I'm always interested in collaborating on challenging projects and learning from other developers and data scientists. 
+I'm always interested in collaborating on challenging projects and learning from other developers and data scientists.
+
 
 <div >
   <a href="https://github.com/penteado-git">
